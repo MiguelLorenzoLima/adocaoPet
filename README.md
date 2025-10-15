@@ -5,7 +5,7 @@ Os usuários podem visualizar os animais disponíveis, ver detalhes como idade, 
 
 ---
 
-## 📱 Demonstração
+## 📱 Telas
 
 <div align="center">
   <img width="200" src="https://github.com/user-attachments/assets/8e5e407b-5a96-456a-8411-1449979522b1" alt="Tela 1" />
